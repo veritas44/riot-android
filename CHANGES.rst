@@ -11,7 +11,7 @@ Other changes:
  - Remove dependency to `android-gif-drawable` lib and use Glide to animate logo on Splashscreen (#2421)
 
 Bugfix:
- -
+ - Fix issue when selecting sound for notifications in the settings
 
 Translations:
  -
